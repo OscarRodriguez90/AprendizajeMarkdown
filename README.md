@@ -49,4 +49,6 @@ Codigo random
 
 ### Como poner una imagen
 
-¡[Textoalternativo](https://github.com/OscarRodriguez90/AprendizajeMarkdown/blob/main/descarga.jpg "Titulo opcional")
+![Textoalternativo](https://github.com/OscarRodriguez90/AprendizajeMarkdown/blob/main/descarga.jpg "Titulo opcional")
+
+
