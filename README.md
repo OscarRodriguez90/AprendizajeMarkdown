@@ -51,4 +51,7 @@ Codigo random
 
 ![Textoalternativo](https://github.com/OscarRodriguez90/AprendizajeMarkdown/blob/main/descarga.jpg "Titulo opcional")
 
-
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|-----------|:-------------:|------------:|
+|SMX2 |Curso 2324|25|
+|ASIX1|Curso2425|32|
